@@ -28,6 +28,9 @@
 		11BB4B1617FB216F00590428 /* FinalHangmanLeman */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = FinalHangmanLeman; sourceTree = BUILT_PRODUCTS_DIR; };
 		11BB4B1917FB217000590428 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		11BB4B1B17FB217000590428 /* FinalHangmanLeman.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = FinalHangmanLeman.1; sourceTree = "<group>"; };
+		11BB4B2217FB21C000590428 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
+		11BB4B2317FB21FC00590428 /* testdictionary.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = testdictionary.txt; sourceTree = "<group>"; };
+		11BB4B2417FB222000590428 /* dictionary.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dictionary.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				11BB4B1917FB217000590428 /* main.c */,
+				11BB4B2217FB21C000590428 /* Header.h */,
+				11BB4B2317FB21FC00590428 /* testdictionary.txt */,
+				11BB4B2417FB222000590428 /* dictionary.txt */,
 				11BB4B1B17FB217000590428 /* FinalHangmanLeman.1 */,
 			);
 			path = FinalHangmanLeman;
